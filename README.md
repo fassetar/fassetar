@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<!--
 **fassetar/fassetar** is a ✨ _special_ ✨ repository because its my GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about my weiner!
 - 📫 How to reach me: via your mother, she's got the deets.
 - 😄 Pronouns: daddy
-- ⚡ Fun fact: nothing
-
+- ⚡ Fun fact: I'm fun on a bun.
+-->
