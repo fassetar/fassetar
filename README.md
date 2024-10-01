@@ -2,7 +2,7 @@
 
 <!--
 **fassetar/fassetar** is a ✨ _special_ ✨ repository because its my GitHub profile.
-
+[![fassetar GitHub stats](https://github-readme-stats.vercel.app/api?username=fassetar)](https://github.com/fassetar)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an ant hill.
