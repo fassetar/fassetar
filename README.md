@@ -13,3 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: daddy
 - ⚡ Fun fact: I'm fun on a bun.
 -->
+
+Facts:
+
+- 🌐 My website [anthonyfassett.com](https://anthonyfassett.com)
+- ▶️ My youtube channel <!--[Developer tips]()-->
+- fassetar [Stack overflow]()
+
+Fun Facts:
+
+- 🔭 I’m currently working on Custom calendar app.
+- 🌱 I’m currently learning DSA.
+- 💬 Ask me about Firebase
+- ⚡ Fun fact: I've got two dogs
