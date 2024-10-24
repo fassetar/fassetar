@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Facts:
 
 - 🌐 My website [anthonyfassett.com](https://anthonyfassett.com)
-- ▶️ My youtube channel <!--[Developer tips]()-->
+<!-- - ▶️ My youtube channel [Developer tips]()-->
 - fassetar [Stack overflow]()
 
 Fun Facts:
