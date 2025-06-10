@@ -25,4 +25,3 @@ Fun Facts:
 - 🔭 I’m currently working on Custom quiz app.
 - 🌱 I’m currently studying up on my DSA.
 - 💬 Ask me about Firebase
-- ⚡ Fun fact: I've got two dogs
